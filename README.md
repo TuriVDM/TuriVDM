@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TuriVDM - Hola, soy @TuriVDM
+- 👀 I'm interested in the manner of teache to code - Me interesa como enseñar a programar
+- 🌱 I’m currently learning php, java and js - Actualmente estoy aprendiendo php, java y js.
